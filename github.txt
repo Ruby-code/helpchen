@@ -1,0 +1,42 @@
+Create account on github
+
+Search for github on browser
+
+click on github Link
+
+click on signup for github in the box
+
+Provide your email address
+
+Create a Password and a Unique Username for yourself.
+
+Verify that you are human and Click on create account
+
+A launch code will be sent to the email provided during sign up, input the code to successfully create Account.
+
+
+
+
+Cloning a repository
+
+On GitHub.com, navigate to the main page of the repository.
+
+Above the list of files, click <> Code.
+
+Copy the URL for the repository.
+
+To clone the repository using HTTPS, under "HTTPS", click .
+
+To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click .
+
+To clone a repository using GitHub CLI, click GitHub CLI, then click .
+
+Open Git Bash.
+
+Change the current working directory to the location where you want the cloned directory.
+
+Type git clone, and then paste the URL you copied earlier.
+
+git clone https://github.com/Ruby-code/techtraining-.git
+
+Press Enter to create your local clone.

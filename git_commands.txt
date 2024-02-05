@@ -1,0 +1,26 @@
+20 Git Commands and Functions
+
+The following shows some commonly used Git Commands and their functions:
+
+	
+1	git init	Initialise a local Git Repository
+2	git add.	Add one or more files to the staging area
+3	git commit -m “Commit Message”	Commit changes to the head but not to the remote repository.
+4	git status	Check the status of your current repository and list the files you have changed.
+5	git log	Provides a list of all commits made on a branch
+6	git diff	View the changes you have made to the file
+7	git push origin <branch name> 	Push the branch to the remote repository so that others can use it.
+8	git clone <repository_name>	Creates a Git repository copy from a remote source
+9	git remote add origin <server>	Connect your local repository to the remote server and add the server to be able to push it.
+10	git branch <branch_name>  	Create a new branch
+11	git checkout <branch_name>	Switch from one branch to another
+12	git merge <branch_name>	 Merge the branch into the active branch
+13	git checkout -b <branch_name>	Creates a new branch and switch to it
+14	git stash	Stash changes into a dirty working directory
+15	git pull	Update local repository to the newest commit
+16	git revert <commit_id>	Revert commit changes
+17	git clean -n	Shows which files would be removed from working directory. Use the -f flag in place of the -n flag to execute the clean.
+18	git log --summary	View changes (detailed)
+19	git diff HEAD	Show difference between working directory and last commit.
+20	git rm -r [File_name]	Remove a file (or folder)
+

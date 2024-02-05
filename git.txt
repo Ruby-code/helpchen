@@ -1,0 +1,20 @@
+How to install git 
+Go to browser, search git click on the link https://git-scm.com/downloads. 
+
+If you are using Windows, Mac or Linux There is a link to download 
+choose the bit of your system and Download.
+Then install.
+
+Click on the downloaded installer file and select yes to continue. After the selecting yes the installation begins.
+Click on next to continue.
+Default components are automatically selected in this step. You can also choose your required part.
+Click next to continue.
+The default Git command-line options are selected automatically. You can choose your preferred choice. 
+Click next to continue.
+The default transport backend options are selected in this step. Click next to continue.
+Select your required line ending option and click next to continue.
+Select preferred terminal emulator clicks on the next to continue.
+This is the last step that provides some extra features like system caching, credential management and symbolic link.
+ Select the required features and click on the next option.
+The files are being extracted.
+Type git --version to check to verion on gitbash.
